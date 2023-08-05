@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(162, 130, 192);
+}
+input{
+    color: black;
+    background-color: violet;
+    border: none;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 25px;
+}
+.center{
+    /* display: flex; */
+    /* justify-content: center; 
+*/
+margin-left: 250PX;
+}
+select{
+    width: 170px;
+    background-color:violet ;
+    color: black;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 25px;
+}
+.text{
+    /* background-color: rgb(219, 109, 233); */
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    
+}
